@@ -1,0 +1,4 @@
+aws
+===
+
+test aws resources
